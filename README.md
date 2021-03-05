@@ -13,3 +13,5 @@ git branch -M main para transformar a branch master em main
 git push -u origin main para enviar o repositorio, dps de ja ter feito uma vez não precisa mais por ' -u origin ' 
 
 vim 'nome do arquivo' pode editar ele
+
+git pull para autalizar a maquina com o que já tem no github
