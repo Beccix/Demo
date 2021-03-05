@@ -11,3 +11,5 @@ add o repositorio remoto com ' git remote add origin email SSH '
 git branch -M main para transformar a branch master em main
 
 git push -u origin main para enviar o repositorio, dps de ja ter feito uma vez não precisa mais por ' -u origin ' 
+
+vim 'nome do arquivo' pode editar ele
